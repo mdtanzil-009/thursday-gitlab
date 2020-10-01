@@ -1,3 +1,4 @@
 Terminal 2
 Extra first line from terminal 1
 Extra second line from terminal 2
+Extra third line from terminal 2
